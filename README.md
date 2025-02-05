@@ -1,6 +1,6 @@
 ### Visualisation of Bloch-Sphere
-#### Based on [manim](https://github.com/3b1b/manim)
-
+#### Visualisation based on [manim](https://github.com/3b1b/manim)
+##### Quantum gate images from [drawio-library](https://github.com/wilkensJ/drawio-library)
 -------
 Installation as in manim
 
